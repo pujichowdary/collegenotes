@@ -1,0 +1,23 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "SDES | ECE",
+    "short_name": "SDES | ECE",
+    "scope": "/college-notes/",
+    "display": "browser",
+    "start_url": "https://jyothiswaroop01.github.io/college-notes/",
+    "background_color": "transparent",
+    "theme_color": "transparent",
+    "description": "Create a stylish landing page for your business startup and get leads for the offered services with this HTML landing page template.",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://jyothiswaroop01.github.io/college-notes/images/favicon.png",
+            "type": "image/png",
+            "sizes": "1200x655"
+        }
+    ],
+    "url": "https://jyothiswaroop01.github.io/college-notes/"
+}
